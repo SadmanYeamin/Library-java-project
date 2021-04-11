@@ -1,0 +1,3 @@
+
+
+Borrow id : 5002,Book's Id : 1002,Book's Title : new Book,Book's Subtitle : subtitle,Book's Price : 65616.0,Author's Id : 2,Author's Name : adasdads,Author's Email : adsadsads,Publisher's Id : 2,Publisher's Name : dsadasd,Publisher's ContactNo : asdadasd,Borrower Type : Teacher,Borrow time and Date : 2020/05/16 03:56:22

@@ -1,0 +1,4 @@
+
+
+Borrow id : 5004,Book's Id : 1003,Book's Title : Book,Book's Subtitle : Subtitle,Book's Price : 500.0,Author's Id : 3,Author's Name : Author,Author's Email : author@gmail.om,Publisher's Id : 3,Publisher's Name : publisher,Publisher's ContactNo : 0123456789,Borrower Type : Student,Borrow time and Date : 2020/05/17 20:27:39
+

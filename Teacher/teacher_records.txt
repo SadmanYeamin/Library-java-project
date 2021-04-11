@@ -1,0 +1,4 @@
+
+Id :  1,TeacherID : 1001,Name: dasdadsda,Department Name : adsadasd,Email : asdasddasd,Contact No : sadsaddas,Address : asdads,Amount : 5.0
+Id :  2,TeacherID : 1002,Name: Teacher,Department Name : Cs,Email : sd@gmail.com,Contact No : 5533513,Address : dhaka,Amount : 5.0
+Id :  3,TeacherID : 1003,Name: Teacher,Department Name : Cs,Email : tch@gmail.com,Contact No : 0124563578,Address : dhaka,Amount : 5.0

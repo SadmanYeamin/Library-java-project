@@ -1,0 +1,3 @@
+
+Teacher id : 1002,User Type : Teacher,Fine : 60.0
+Teacher id : 1002,User Type : Teacher,Fine : 600.0

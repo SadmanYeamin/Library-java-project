@@ -1,0 +1,3 @@
+
+Student id : 1002,User Type : Student,Fine : 500.0
+Student id : 1001,User Type : Student,Fine : 500.0

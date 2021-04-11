@@ -1,0 +1,5 @@
+
+Id :  1,StudentID : 1001,Name: Sadman,Department Name : cs,Email : sd@gmail.com,Contact No : 54786562,Address : Kafrul,Amount : 1.0,Guardian's Name : Father,Guardian's Contact No : 2546656
+Id :  2,StudentID : 1002,Name: Yeamin,Department Name : Cs,Email : sd@gmail.com,Contact No : 546462628,Address : dhaka,Amount : 4.0,Guardian's Name : father,Guardian's Contact No : 2465686
+Id :  3,StudentID : 1003,Name: Raf,Department Name : BBA,Email : sd@gmail.com,Contact No : 576216626,Address : dhaka,Amount : 7.0,Guardian's Name : father,Guardian's Contact No : 22526
+Id :  4,StudentID : 1004,Name: Sakib,Department Name : Cs,Email : Sakib@gmail.com,Contact No : 012435678,Address : Dhaka,Amount : 1.0,Guardian's Name : Father,Guardian's Contact No : 0123456799

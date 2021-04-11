@@ -1,0 +1,8 @@
+
+Book's Id : 1001,Book's Title : Book,Book's Subtitle : Subtitle,Book's Price : 50.0,Author's Id : 1,Author's Name : Author,Author's Email : author@gmail.com,Publisher's Id : 1,Publisher's Name : publishr,Publisher's ContactNo : 12345679
+Book's Id : 1002,Book's Title : new Book,Book's Subtitle : subtitle,Book's Price : 65616.0,Author's Id : 2,Author's Name : adasdads,Author's Email : adsadsads,Publisher's Id : 2,Publisher's Name : dsadasd,Publisher's ContactNo : asdadasd
+Book's Id : 1003,Book's Title : Book,Book's Subtitle : Subtitle,Book's Price : 500.0,Author's Id : 3,Author's Name : Author,Author's Email : author@gmail.om,Publisher's Id : 3,Publisher's Name : publisher,Publisher's ContactNo : 0123456789
+Book's Id : 1004,Book's Title : The History of Tom jones,Book's Subtitle : Somerset,Book's Price : 400.0,Author's Id : 4,Author's Name : Henry Fielding,Author's Email : henry@gmail.com,Publisher's Id : 4,Publisher's Name : Publihsers co,Publisher's ContactNo : 0124563257
+Book's Id : 1005,Book's Title : The Red and the Black,Book's Subtitle : Subtitle,Book's Price : 500.0,Author's Id : 5,Author's Name : Stendhai,Author's Email : sten@gmail.com,Publisher's Id : 5,Publisher's Name : Publishers co,Publisher's ContactNo : 01245365789
+Book's Id : 1006,Book's Title : War and peace,Book's Subtitle : subtitle,Book's Price : 400.0,Author's Id : 6,Author's Name : Tolstoy,Author's Email : tol@gmail.com,Publisher's Id : 6,Publisher's Name : Publishers co,Publisher's ContactNo : 0124658
+Book's Id : 1008,Book's Title : Madame Bovary,Book's Subtitle : Subtitle,Book's Price : 500.0,Author's Id : 8,Author's Name : Gustave Flaubert,Author's Email : gustave@gmail.com,Publisher's Id : 8,Publisher's Name : Publishers Co,Publisher's ContactNo : 012456335
